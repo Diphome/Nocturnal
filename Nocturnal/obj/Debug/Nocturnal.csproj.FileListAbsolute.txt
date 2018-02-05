@@ -1,0 +1,6 @@
+c:\users\edoua\documents\visual studio 2013\Projects\Nocturnal\Nocturnal\bin\Debug\Nocturnal.dll
+c:\users\edoua\documents\visual studio 2013\Projects\Nocturnal\Nocturnal\bin\Debug\Nocturnal.pdb
+c:\users\edoua\documents\visual studio 2013\Projects\Nocturnal\Nocturnal\bin\Debug\UnityEngine.dll
+c:\users\edoua\documents\visual studio 2013\Projects\Nocturnal\Nocturnal\obj\Debug\Nocturnal.csprojResolveAssemblyReference.cache
+c:\users\edoua\documents\visual studio 2013\Projects\Nocturnal\Nocturnal\obj\Debug\Nocturnal.dll
+c:\users\edoua\documents\visual studio 2013\Projects\Nocturnal\Nocturnal\obj\Debug\Nocturnal.pdb
